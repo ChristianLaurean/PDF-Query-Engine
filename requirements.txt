@@ -1,0 +1,8 @@
+langchain==0.2.15
+langchain-openai==0.1.23
+langchain-community==0.2.15
+python-dotenv==1.0.1
+langchain-core==0.2.37
+langchain-text-splitters==0.2.2
+langchain-chroma==0.1.3
+
